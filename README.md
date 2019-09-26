@@ -54,7 +54,7 @@ git clone https://github.com/Galser/vagrant-multimachine-web-mysql.git
   vagrant@mysql:~$ hostname
   mysql 
  ```
-- Let's check status of all machines in stakc, first - you should exit the SSH session 
+- Let's check status of all machines in stack, but first - you should exit the current SSH session. Run : 
  ```
  exit
  ```
