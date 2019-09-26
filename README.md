@@ -1,7 +1,7 @@
 # vagrant-multimachine-web-mysl
 Demo repository with multi machine "web01", "web02" and "mysql" in a single Vagrantfile.
 
-Based on base box from : https://github.com/Galser/packer-ubuntu
+Based on box from : https://github.com/Galser/packer-ubuntu
 
 
 # Prerequisites
